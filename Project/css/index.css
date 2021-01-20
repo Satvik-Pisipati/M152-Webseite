@@ -59,7 +59,7 @@ blockquote {
 #serie, #about, #video, #home2{
     display: block;
     max-width: 180vh;
-    height: 1000px;
+    height: 1200px;
     margin: 10px auto;
     padding: 15px;
     background-color: white;
